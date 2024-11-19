@@ -39,7 +39,7 @@ The homepage is packed with engaging cricket-themed content, including:
 - **Contact Form**: Allows users to submit queries, which are sent directly to the admin’s email for a quick response.
 
 ## Clone the repository
-    git clone https://github.com/payalsahu1303/Unstop-WebBuzz-WICK.PLAY.git
+    git clone https://github.com/payalsahu1303/CRICKET-TOURNAMENT_WICK.PLAY.git
 
 ## API Usage
 The Matches Section utilizes the CricAPI to display real-time data on cricket matches:
